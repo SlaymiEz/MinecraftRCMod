@@ -1,14 +1,14 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "Minecraft Remote-Control Mod",
+    "description": "A mod that offers a WebSocket to perform actions through a discord bot",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "url": "https://github.com/SlaymiEz/MinecraftRCMod",
     "updateUrl": "",
     "authorList": [
-      "You"
+      "Slaymi"
     ],
     "credits": "",
     "logoFile": "",

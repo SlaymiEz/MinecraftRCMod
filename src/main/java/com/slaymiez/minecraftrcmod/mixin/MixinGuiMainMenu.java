@@ -1,4 +1,4 @@
-package com.github.slaymiez.minecraftrcmod.mixin;
+package com.slaymiez.minecraftrcmod.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;

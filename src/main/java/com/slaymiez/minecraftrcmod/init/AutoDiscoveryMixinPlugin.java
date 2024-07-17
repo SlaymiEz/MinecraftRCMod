@@ -1,4 +1,4 @@
-package com.github.slaymiez.minecraftrcmod.init;
+package com.slaymiez.minecraftrcmod.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
